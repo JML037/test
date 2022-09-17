@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    
+    
+    align-items: initial;
+}
+
+body{
+    background-color : #E8E8E8;
+}
+
+div{
+    display: center;
+    align-items: center;
+}
+
+.logos{
+    align-self: baseline;
+
+}
